@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EXOSKY Free Camera",
+	"Description": "Plugin for 6DOF camera transform.",
+	"Category": "Other",
+	"CreatedBy": "CollinInMySternum",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ExoSkyFreeCamera",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
